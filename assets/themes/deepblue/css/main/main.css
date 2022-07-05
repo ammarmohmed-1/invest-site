@@ -759,12 +759,7 @@ section#add-recipient-form {
   background-color: transparent;
 }
 
-.custom-checkbox .custom-control-input:checked ~ .custom-control-label::after {
-  border-color: var(--themecolor);
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3E%3Cpath fill='%23fff' d='M6.564.75l-3.59 3.612-1.538-1.55L0 4.26 2.974 7.25 8 2.193z'/%3E%3C/svg%3E");
-  -webkit-transition: var(--transition);
-  transition: var(--transition);
-}
+
 
 .top-0 {
   top: 0 !important;
@@ -2692,7 +2687,6 @@ html[dir=rtl] .navbar-loggedin #pushNotificationArea > .account > ul > li:last-c
 
 .feature-wrapper .card-type-1 {
   border-radius: 10px;
-  background-image: url("../images/shapes/shape-img-2.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -2835,8 +2829,6 @@ html[dir=rtl] #about-us .wrapper .about-overlay-fig {
   position: relative;
   padding: 35px 35px;
   border-radius: 4px;
-  background-image: url("../images/shapes/shape-img-4.png");
-  background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
   -webkit-box-shadow: none;
@@ -2885,7 +2877,6 @@ html[dir=rtl] #about-us .wrapper .about-overlay-fig {
   padding: 35px 35px;
   border: 1px solid #131e51;
   border-radius: 4px;
-  background-image: url("../images/shapes/shape-img-5.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3205,7 +3196,6 @@ html[dir=rtl] #banner-wrap .vertical-timeline .media .media-body {
   padding: 35px 35px;
   border: 0;
   border-radius: 4px;
-  background-image: url("../images/shapes/shape-img-6.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3325,7 +3315,6 @@ html[dir=rtl] .data-content-wrapper .media > p.text {
 #profit-calculation .calculation-wrapper {
   margin-top: 65px;
   padding: 38px 38px;
-  background-image: url("../images/shapes/shape-img-7.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -3524,7 +3513,6 @@ html[dir=rtl] .data-content-wrapper .media > p.text {
   padding: 35px 30px;
   border: 0;
   border-radius: 4px;
-  background-image: url("../images/shapes/shape-img-8.png");
   background-position: bottom;
   background-repeat: no-repeat;
   background-size: 100% 100%;
@@ -5439,7 +5427,6 @@ html[dir=rtl] .dashboard-nav .nav-item .icon-wrapper span {
   position: relative;
   border: 0;
   border-radius: 5px;
-  background-image: url("../images/shapes/shape-img-1.png");
   background-repeat: no-repeat;
   background-position: bottom right;
   background-size: 100% 100%;
@@ -5509,9 +5496,6 @@ html[dir=rtl] .dashboard-nav .nav-item .icon-wrapper span {
   position: relative;
   border: 0;
   border-radius: 5px;
-  background-image: url("../images/shapes/shape-img-2.png");
-  background-repeat: no-repeat;
-  background-position: bottom left;
   background-size: 100% 100%;
   background-color: var(--background-2);
 }
@@ -5684,7 +5668,6 @@ html[dir=rtl] #dashboard .dashboard-wrapper .refferal-information .content-conta
   }
 
   #dashboard .dashboard-wrapper .refferal-information .content-wrapper {
-    background-image: url("../images/shapes/shape-img-3.png");
     background-position: 0 0;
     background-size: contain;
     background-repeat: repeat-y;
